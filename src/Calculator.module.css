@@ -1,0 +1,37 @@
+.App {
+
+    display: inline-block;
+  }
+  
+
+.numbersBlock {
+    display: inline-block;   
+}
+
+.arithmeticBlock {
+    display: inline-block;
+    width: 50px;   
+}
+
+.cBlock {
+    display: inline-block;
+    position: absolute;
+}
+
+.resultBlock {
+    display: block;
+    height: 100px;
+    background-color: #2B292A;
+    font-size: 20px;
+    border-radius: 10px;
+    color: white;
+}
+
+.result {
+    margin: 0;
+    line-height: 100px;
+}
+
+:global(#root) {
+    text-align: center;
+}

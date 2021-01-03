@@ -1,0 +1,65 @@
+.button {
+    padding: 15px 20px;
+    width: 50px;
+    height: 50px;
+    margin: 1px;
+    border-radius: 10px;
+    border: none;
+    font-size: 16px;
+    background-color: #343434;
+    color: white;  
+}
+
+.button:hover {
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+.zero {
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    font-size: 16px;
+    background-color: #343434;
+    color: white;
+    margin: 1px;
+}
+
+.zero:hover {
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+.arithmetic {
+    padding: 15px 20px;
+    width: 50px;
+    height: 50px;
+    margin: 1px;
+    border-radius: 10px;
+    border: none;
+    font-size: 16px;
+    background-color: #1B3C4D;
+    color: white;
+}
+
+.arithmetic:hover {
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+.c {
+    width: 153px;
+    height: 50px;
+    background-color: #4BA29F;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    font-size: 16px;
+    margin: 1px;
+}
+
+.c:hover {
+    opacity: 0.6;
+    cursor: pointer;
+}
